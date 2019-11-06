@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "210949287344",
+    "firebase_url": "https://karyaseni-b5146.firebaseio.com",
+    "project_id": "karyaseni-b5146",
+    "storage_bucket": "karyaseni-b5146.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210949287344:android:356a1cb5e0094911bd7a75",
+        "android_client_info": {
+          "package_name": "android.jplas.karyaseni"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210949287344-2slprrj06m3an5hn87kks42ncmvlvio3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYMAe6MUEyRnE-uKaTrTIkZvQVKQj41mc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210949287344-2slprrj06m3an5hn87kks42ncmvlvio3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
